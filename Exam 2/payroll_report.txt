@@ -1,0 +1,103 @@
+Lane Holden
+124578
+m
+45.00
+ Total Pay : $653.12
+ Fed Tax : $97.97
+ State Tax : $32.66
+ Med Tax : $9.80
+ Social Security : $48.98
+ Taxed Pay : $463.72
+
+Alex Peoples
+854621
+o
+54.00
+ Total Pay : $1021.75
+ Fed Tax : $153.26
+ State Tax : $51.09
+ Med Tax : $15.33
+ Social Security : $76.63
+ Taxed Pay : $725.44
+
+Gloria Roper
+845791
+t
+61.00
+ Total Pay : $1412.12
+ Fed Tax : $211.82
+ State Tax : $70.61
+ Med Tax : $21.18
+ Social Security : $105.91
+ Taxed Pay : $1002.61
+
+Brice Diligant
+984517
+m
+34.00
+ Total Pay : $467.50
+ Fed Tax : $70.12
+ State Tax : $23.38
+ Med Tax : $7.01
+ Social Security : $35.06
+ Taxed Pay : $331.93
+
+Invalid pay code for Victoria Wellen
+
+Oscar Sulard
+652147
+t
+48.00
+ Total Pay : $1027.00
+ Fed Tax : $154.05
+ State Tax : $51.35
+ Med Tax : $15.40
+ Social Security : $77.02
+ Taxed Pay : $729.17
+
+Samual Chaplin
+231987
+m
+39.00
+ Total Pay : $536.25
+ Fed Tax : $80.44
+ State Tax : $26.81
+ Med Tax : $8.04
+ Social Security : $40.22
+ Taxed Pay : $380.74
+
+Brianna Niven
+763452
+t
+51.00
+ Total Pay : $1115.88
+ Fed Tax : $167.38
+ State Tax : $55.79
+ Med Tax : $16.74
+ Social Security : $83.69
+ Taxed Pay : $792.27
+
+Dani Kollin
+892341
+o
+42.00
+ Total Pay : $720.25
+ Fed Tax : $108.04
+ State Tax : $36.01
+ Med Tax : $10.80
+ Social Security : $54.02
+ Taxed Pay : $511.38
+
+Alastair Palmatier
+234876
+m
+38.00
+ Total Pay : $522.50
+ Fed Tax : $78.38
+ State Tax : $26.12
+ Med Tax : $7.84
+ Social Security : $39.19
+ Taxed Pay : $370.98
+
+employees processed : 9
+Total Payroll :5308.23
