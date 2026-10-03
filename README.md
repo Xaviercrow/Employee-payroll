@@ -37,8 +37,7 @@ similar to the following example:
 Here is an example output:  (be creative - use appropriate formatting) 
 ******************************************************************** 
 Paycheck info for employee:  Lane Holden 
-Employee Code:                
-124578 
+Employee Code:                124578 
 Total Hours Worked:           
 Payrate:                     
 Earnings Before Taxes:      
